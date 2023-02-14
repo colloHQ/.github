@@ -30,6 +30,7 @@
     <a href="https://github.com/colloHQ/collo-app/issues">Report Bug</a>
     ·
     <a href="https://github.com/colloHQ/collo-app/issues">Request Feature</a>
+    ·
     <a href="https://www.figma.com/file/3Ver3pejJRO726gwbVG36Y/collo?node-id=0%3A1&t=J7KHHlMnzfuhAssH-1"> Figma File</a>
   </p>
 
@@ -88,10 +89,10 @@
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#115958](https://via.placeholder.com/10/115958?text=+) #115958 |
-| Secondary Color | ![#2DF2BC](https://via.placeholder.com/10/2DF2BC?text=+) #2DF2BC |
-| Accent Color | ![#30F2CF](https://via.placeholder.com/10/30F2CF?text=+) #30F2CF |
-| Text Color | ![#F2F2F2](https://via.placeholder.com/10/F2F2F2?text=+) #F2F2F2 |
+| Primary Color | ![#204945](https://via.placeholder.com/10/204945?text=+) #204945 |
+| Secondary Color | ![#3CBD96](https://via.placeholder.com/10/3CBD96?text=+) #3CBD96 |
+| Accent Color | ![#E3F9E7](https://via.placeholder.com/10/E3F9E7?text=+) #E3F9E7 |
+| Text Color | ![#777E90](https://via.placeholder.com/10/777E90?text=+) #777E90 |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
