@@ -30,6 +30,7 @@
     <a href="https://github.com/colloHQ/collo-app/issues">Report Bug</a>
     ·
     <a href="https://github.com/colloHQ/collo-app/issues">Request Feature</a>
+    <a href="https://www.figma.com/file/3Ver3pejJRO726gwbVG36Y/collo?node-id=0%3A1&t=J7KHHlMnzfuhAssH-1"> Figma File</a>
   </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
