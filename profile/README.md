@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/colloHQ/collo-app">
+  <a href="https://github.com/colloHQ">
     <img src="logoAsset 6@0.75x.png" alt="Logo" >
   </a>
 
@@ -17,19 +17,19 @@
   <p align="center">
     collo is a project management application that provides a single platform for remote teams to handle their tasks, collaborate in real-time, and communicate effectively.
     <br />
-    <a href="https://github.com/colloHQ/collo-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/colloHQ"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
 
 
-<a align="center">[![Product Name Screen Shot][product-screenshot]](https://collo-app.app)</a>
+<a align="center">[![Product Name Screen Shot][product-screenshot]](https://collo.app)</a>
   <p align="center">
-    <a href="https://github.com/colloHQ/collo-app">View Demo</a>
+    <a href="https://github.com/colloHQ">View Demo</a>
     ·
-    <a href="https://github.com/colloHQ/collo-app/issues">Report Bug</a>
+    <a href="https://github.com/colloHQ/issues">Report Bug</a>
     ·
-    <a href="https://github.com/colloHQ/collo-app/issues">Request Feature</a>
+    <a href="https://github.com/colloHQ/issues">Request Feature</a>
     ·
     <a href="https://www.figma.com/file/3Ver3pejJRO726gwbVG36Y/collo?node-id=0%3A1&t=J7KHHlMnzfuhAssH-1"> Figma File</a>
   </p>
@@ -146,8 +146,8 @@ This is an example of how to list things you need to use the software and how to
 
 Thanks go to these wonderful people
 <br />
-<a href="https://github.com/colloHQ/collo-app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=colloHQ/collo-app" />
+<a href="https://github.com/colloHQ/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=colloHQ" />
 </a>
 
 
@@ -173,16 +173,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/colloHQ/collo-app.svg?style=flat
-[contributors-url]: https://github.com/colloHQ/collo-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/colloHQ/collo-app.svg?style=flat
-[forks-url]: https://github.com/colloHQ/collo-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/colloHQ/collo-app.svg?style=flat
-[stars-url]: https://github.com/colloHQ/collo-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/colloHQ/collo-app.svg?style=flat
-[issues-url]: https://github.com/colloHQ/collo-app/issues
-[license-shield]: https://img.shields.io/github/license/colloHQ/collo-app.svg?style=flat
-[license-url]: https://github.com/colloHQ/collo-app/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/colloHQ.svg?style=flat
+[contributors-url]: https://github.com/colloHQ/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/colloHQ.svg?style=flat
+[forks-url]: https://github.com/colloHQ/network/members
+[stars-shield]: https://img.shields.io/github/stars/colloHQ.svg?style=flat
+[stars-url]: https://github.com/colloHQ/stargazers
+[issues-shield]: https://img.shields.io/github/issues/colloHQ.svg?style=flat
+[issues-url]: https://github.com/colloHQ/issues
+[license-shield]: https://img.shields.io/github/license/colloHQ.svg?style=flat
+[license-url]: https://github.com/colloHQ/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/esprit-option-twin/
 [product-screenshot]: Homepage.jpg
