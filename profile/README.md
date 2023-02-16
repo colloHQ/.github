@@ -9,7 +9,7 @@
 <h3 align="center">collo</h3>
 
   <p align="center">
-    collo is a project management application that provides a single platform for remote teams to handle their tasks, collaborate in real-time, and communicate effectively.
+    Enabling teams to collaborate at max productivity. Expanding workplace culture to the remote teams.
     <br />
     <a href="https://github.com/colloHQ"><strong>Explore the docs »</strong></a>
     <br />
@@ -72,9 +72,11 @@
 <!-- Features -->
 ### 🎯 Features
 
-- Real time communication
-- Activity and Time tracking
-- Project management
+- Real time communication through video and text-channels
+- Activity and Productivity reports for teams managers 
+- Project Management that follows agile methodologies
+- Projects timelines, Meetings and business oriented calendar
+- Onboarding new teams
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
