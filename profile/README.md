@@ -9,7 +9,7 @@
 <h3 align="center">collo</h3>
 
   <p align="center">
-    Enabling teams to collaborate at max productivity. Expanding workplace culture to the remote teams.
+    Enabling teams to collaborate at max productivity while expanding workplace culture to the remote teams.
     <br />
     <a href="https://github.com/colloHQ"><strong>Explore the docs »</strong></a>
     <br />
