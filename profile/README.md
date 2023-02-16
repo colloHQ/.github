@@ -140,29 +140,6 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
-
-See the [open issues](https://github.com/colloHQ/collo-app/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing
@@ -195,54 +172,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-<!-- ACKNOWLEDGMENTS -->
-
-## 💎 Acknowledgments
-Courses
-
-- [ReactJS Course For Beginners 2022](https://youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR)
-- [MERN Stack Crash Course Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE)
-- [MERN Auth JWT](https://youtube.com/playlist?list=PL4cUxeGkcC9g8OhpOZxNdhXggFz2lOuCT)
-- [Complete MongoDB Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
-- [Chakra UI Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9hcnIeryurNMMcGBHp7AYlP)
-- [React Router in Depth](https://youtube.com/playlist?list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf)
-
-<br/>
-
-Real Time Communication & Collaboration
-- A collaboration application built with Twilio SDK : [twilio / twilio-video-app-react](https://github.com/twilio/twilio-video-app-react)
--Virtual whiteboard: [excalidraw / excalidraw](https://github.com/excalidraw/excalidraw)
-<br />
-
-Authentication
-- OAuth 2 / OpenID Connect for Web Platform API: [panva / oauth4webapi](https://github.com/panva/oauth4webapi)
-- Custom login hooks: [gitdagray / react_login_hooks](https://github.com/gitdagray/react_login_hooks)
-<br />
-
-Drag & Drop
-- Drag & drop for Task management: [atlassian / react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-- Smooth gestures: [pmndrs / use-gesture](https://github.com/pmndrs/use-gesture)
-<br />
-
-Form State Management
-- Drag & drop for Task management: [react-hook-form / react-hook-form](https://github.com/react-hook-form/react-hook-form)
-<br />
-
-
-Projects based features
-- React Chat app: [aayushjha5 / reactchatapp](https://github.com/aayushjha5/reactchatapp)
-- React Tailwind Table: [jimmybutton / react-tailwind-table](https://github.com/jimmybutton/react-tailwind-table)
-<br />
-
-Utilities
-- Cal Sans Font: [calcom / font](https://github.com/calcom/font)
-- Resizable Grid Layout: [react-grid-layout / react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
-- Typing Animation: [catalinmiron / react-typical](https://github.com/catalinmiron/react-typical)
-- Alerts: [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/colloHQ/collo-app.svg?style=flat
 [contributors-url]: https://github.com/colloHQ/collo-app/graphs/contributors
