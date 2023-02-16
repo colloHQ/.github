@@ -1,10 +1,4 @@
 <a name="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -146,8 +140,8 @@ This is an example of how to list things you need to use the software and how to
 
 Thanks go to these wonderful people
 <br />
-<a href="https://github.com/colloHQ/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=colloHQ" />
+<a href="https://github.com/colloHQ/collo-app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=colloHQ/collo-app" />
 </a>
 
 
